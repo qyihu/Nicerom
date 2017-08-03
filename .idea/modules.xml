@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Nicerom-Backend/Nicerom-Backend.iml" filepath="$PROJECT_DIR$/Nicerom-Backend/Nicerom-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nicerom-Backend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Nicerom-Backend_main.iml" group="Nicerom-Backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nicerom-Backend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Nicerom-Backend_test.iml" group="Nicerom-Backend" />
+    </modules>
+  </component>
+</project>
